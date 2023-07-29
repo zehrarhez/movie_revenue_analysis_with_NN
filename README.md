@@ -94,12 +94,10 @@ First, you need to have some libraries and packages to run the app. You should i
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Fetching the data
-- [ ] Preprocessing on the data
-- [ ] Training the best model
-- [ ] Creating the flask app
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+- [ ] Fetching the Data
+- [ ] Preprocessing on the Data
+- [ ] Training the Best Model
+- [ ] Creating the Flask App
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,9 +110,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b `)
+3. Commit your Changes (`git commit -m `)
+4. Push to the Branch (`git push origin `)
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -127,7 +125,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - Zehra ÖZEREN - zehrarhezz9@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/zehrarhez/movie_revenue_analysis_with_NN)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
