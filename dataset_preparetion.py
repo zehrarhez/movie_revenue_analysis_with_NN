@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 import seaborn as sns
 import time
 import pickle
-API_KEY = "bd7708d450a7dbcbaeca1872bbe4c5cd"
+API_KEY = 'ENTER YOUR API'
 BASE_URL = "https://api.themoviedb.org/3/"
 
 
