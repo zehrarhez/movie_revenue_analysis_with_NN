@@ -69,7 +69,7 @@ First, you need to have some libraries and packages to run the app. You should i
 
 ### Installation
 
-1. Get a free API Key at [TMDb - Developer Site](https://developer.themoviedb.org/reference/intro/getting-started))
+1. Get a free API Key at [TMDb - Developer Site](https://developer.themoviedb.org/reference/intro/getting-started)
 2. Clone the repo
    ```sh
    git clone [https://github.com/your_username_/Project-Name.git](https://github.com/zehrarhez/movie_revenue_analysis_with_NN.git)
