@@ -67,7 +67,7 @@ To get a local copy up and running follow these simple example steps.
 First, you need to have some libraries and packages to run the app. You should install them on your cmd. 
 * npm
   ```sh
-  npm install requirements.txt
+  pip install -r requirements.txt
   ```
 
 ### Installation
@@ -80,9 +80,9 @@ First, you need to have some libraries and packages to run the app. You should i
    ```
 3. Install NPM packages
    ```sh
-   npm install
+   install the codes 
    ```
-4. Enter your API in `config.js`
+4. Enter your API in `data_preparetion.py`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
