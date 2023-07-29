@@ -49,7 +49,7 @@ Here's why:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Python][Python.org]][Python-url]
+* [![Python][Python.org]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -140,7 +140,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Hyperparameter Tuning](https://www.geeksforgeeks.org/hyperparameter-tuning/)
 * [Preprocessing the Data](https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/)
 * [Preprocessing the Data](https://medium.com/almabetter/data-preprocessing-techniques-6ea145684812)
-* [Flask]([https://shields.io](https://flask.palletsprojects.com/en/2.3.x/))
+* [Flask](https://flask.palletsprojects.com/en/2.3.x/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
