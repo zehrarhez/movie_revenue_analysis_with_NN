@@ -82,7 +82,7 @@ First, you need to have some libraries and packages to run the app. You should i
    ```
 4. Enter your API in `data_preparetion.py`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
