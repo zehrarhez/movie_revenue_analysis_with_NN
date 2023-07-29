@@ -125,7 +125,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - Zehra ÖZEREN - zehrarhezz9@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/zehrarhez/movie_revenue_analysis_with_NN)
+Project Link: [Movie Revenue Analysis Project](https://github.com/zehrarhez/movie_revenue_analysis_with_NN)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,14 +136,11 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/ze
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Supervised and Unsupervised ML](https://www.ibm.com/blog/supervised-vs-unsupervised-learning/)
+* [Hyperparameter Tuning](https://www.geeksforgeeks.org/hyperparameter-tuning/)
+* [Preprocessing the Data](https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/)
+* [Preprocessing the Data](https://medium.com/almabetter/data-preprocessing-techniques-6ea145684812)
+* [Flask]([https://shields.io](https://flask.palletsprojects.com/en/2.3.x/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
