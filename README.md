@@ -62,7 +62,6 @@ Here's why:
 ### Prerequisites
 
 First, you need to have some libraries and packages to run the app. You should install them on your cmd. 
-* npm
   ```sh
   pip install -r requirements.txt
   ```
@@ -122,7 +121,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - Zehra ÖZEREN - zehrarhezz9@gmail.com
 
-Project Link: [Movie Revenue Analysis Project](https://github.com/zehrarhez/movie_revenue_analysis_with_NN)
+Project Link: [Movie Revenue Prediction Project](https://github.com/zehrarhez/movie_revenue_analysis_with_NN)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
