@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 import seaborn as sns
-import time
+import time 
 import pickle
 API_KEY = 'ENTER YOUR API'
 BASE_URL = "https://api.themoviedb.org/3/"
