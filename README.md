@@ -36,6 +36,7 @@
 Project has a aim of predicting the revenue of the films according to their budget, total time and genres. 
 
 Here's why:
+If,
 * You are a screenwriter, director or a professional group in this sector,
 * You want to know the income of the movie you will shoot and start the project according to the situation,
 * Then you can use this project to analyze the avarage revenue of your scenerio. 
@@ -68,7 +69,7 @@ First, you need to have some libraries and packages to run the app. You should i
 
 ### Installation
 
-1. Get a free API Key at [TMDb - Developer Site]([https://example.com](https://developer.themoviedb.org/reference/intro/getting-started))
+1. Get a free API Key at [TMDb - Developer Site](https://developer.themoviedb.org/reference/intro/getting-started))
 2. Clone the repo
    ```sh
    git clone [https://github.com/your_username_/Project-Name.git](https://github.com/zehrarhez/movie_revenue_analysis_with_NN.git)
@@ -102,9 +103,6 @@ First, you need to have some libraries and packages to run the app. You should i
 <!-- CONTRIBUTING -->
 ## Contributing
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b `)
 3. Commit your Changes (`git commit -m `)
@@ -119,7 +117,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Zehra ÖZEREN - zehrarhezz9@gmail.com
+Zehra ÖZEREN - zehrarhezz9@gmail.com
 
 Project Link: [Movie Revenue Prediction Project](https://github.com/zehrarhez/movie_revenue_analysis_with_NN)
 
@@ -129,8 +127,6 @@ Project Link: [Movie Revenue Prediction Project](https://github.com/zehrarhez/mo
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Supervised and Unsupervised ML](https://www.ibm.com/blog/supervised-vs-unsupervised-learning/)
 * [Hyperparameter Tuning](https://www.geeksforgeeks.org/hyperparameter-tuning/)
